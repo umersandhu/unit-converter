@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#heading{
+    text-align: center;
+    margin-top: 40px;
+    text-decoration: underline;
+}
+#container{
+    background-color:rgb(109, 236, 109);
+    text-align: center;
+    width: 55%;
+    border-radius: 19px;
+    margin:15px auto 0 auto;
+    padding: 20px;
+}
+.inputdiv{
+display: inline-block;
+}
+.inpt{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 26px;
+    font-weight: 600;
+    width: 73%;
+    border-radius: 12px;
+    text-align: center;
+}
+label{
+    font-size: 20px;
+    font-weight: 300;
+}
